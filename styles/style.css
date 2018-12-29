@@ -1,3 +1,7 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 .mainNav {
     display: flex;
     list-style: none;
@@ -43,7 +47,7 @@ header {
 }
 
 .gameScreens_item {
-    flex: 33.33%;
+    flex: 30%;
 }
 
 .gameScreens_item:nth-child(2) {
